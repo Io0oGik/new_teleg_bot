@@ -1,0 +1,1 @@
+worker: python iooogik_bot.py
